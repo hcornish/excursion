@@ -1,20 +1,30 @@
-body {background: black;text-align: center;}
+body {
+	background: black;
+	text-align: center;
+}
 
 h1 {
-	font: normal 50px/1em Verdana;
-	color:white;
-	margin:0 auto;
+	font: normal bold 50px/1em Verdana;
+	color: white;
+	margin: 0 auto;
 }
+
 h2 {
 	font: normal 300 42px/1em Verdana;
 	color: white;
 }
+
 a {
-	color: Aquamarine;
 	font-size: 16px;
+	color: Aquamarine;
 }
+
 p {
 	font: normal 21px/1em Verdana;
 	color: Grey;
 }
-video {margin: 0 auto;}
+
+footer {
+	text-align:right;
+	padding: 10px;
+}
