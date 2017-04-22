@@ -6,12 +6,13 @@ body {
 h1 {
 	font: normal bold 50px/1em Verdana;
 	color: white;
-	margin: 0 auto;
+	margin: 40 auto;
 }
 
 h2 {
 	font: normal 300 42px/1em Verdana;
 	color: white;
+	margin: 40px 0;
 }
 
 a {
